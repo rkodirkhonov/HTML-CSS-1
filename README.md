@@ -1,2 +1,1 @@
-# HTML-CSS-1
-# Exercice 1
+# Practice 1
